@@ -4,9 +4,9 @@
 const char* ssid = "SLT-LTE-WiFi"; // Enter your WiFi name
 const char* password =  "rrba671aj6b"; // Enter WiFi password
 const char* mqttServer = "soldier.cloudmqtt.com";
-const int mqttPort = 12729;
-const char* mqttUser = "ciyajbsc";
-const char* mqttPassword = "je1T5MADj3Wi";
+const int mqttPort = 18526;
+const char* mqttUser = "vamsxdei";
+const char* mqttPassword = "n0wzkzOd2HJ3";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
